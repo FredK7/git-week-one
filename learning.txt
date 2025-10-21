@@ -1,0 +1,5 @@
+Three things I have learned about git
+
+1. How to initialize a git repository.
+2. How to add files to the staging area.
+3. How to commit changes. 
